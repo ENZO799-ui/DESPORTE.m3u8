@@ -1,5 +1,4 @@
 #EXTM3U
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Y2D0DfR1/tigo-sports-2.png" group-title="🇵🇾TIGO SPORTS🇵🇾", EVENTO 1
 https://d3kzwqwnq1f7tq.cloudfront.net/out/v1/25ca218d53194065bedf6d998ace462e/index.mpd
 
@@ -18,103 +17,103 @@ https://killermina.github.io/mi-player-html/
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5X20hxjL/KN-copia-4.png" group-title="🇵🇾TIGO SPORTS🇵🇾", TIGO WEB 2
 https://killermina.github.io/player2/
 
-#EXTINF:-1  tvg-logo="https://imgs.search.brave.com/0elrILScO2i23kU0vVp0bieL9ZyOPXdeL9cOjtW0oq8/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy8x/LzEwL1BhcmFndWF5_X1RWX2xvZ28ucG5n" group-title="🇵🇾PARAGUAY", MBOKAYATY TV
+#EXTINF:-1  tvg-logo="https://imgs.search.brave.com/0elrILScO2i23kU0vVp0bieL9ZyOPXdeL9cOjtW0oq8/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy8x/LzEwL1BhcmFndWF5_X1RWX2xvZ28ucG5n" group-title="🇵🇾PARAGUAY🇵🇾", MBOKAYATY TV
 https://live.enhdtv.com:8081/8174/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fyVSj4Sp/canal-vision-tv.png" group-title="🇵🇾PARAGUAY", VISIÓN TV VILLARRICA
 https://rds3gen.desdeparaguay.net/satelitaltv/satelitaltv/chunklist.m3u8?admin=nacion
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Ycu%C3%A1_Bola%C3%B1os_%28Caazap%C3%A1%29.jpg" group-title="🇵🇾PARAGUAY", CAAZAPA TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Ycu%C3%A1_Bola%C3%B1os_%28Caazap%C3%A1%29.jpg" group-title="🇵🇾PARAGUAY🇵🇾", CAAZAPA TV
 https://live.enhdtv.com:8081/8108/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/television.com.py/wp-content/uploads/2020/10/LogoGENtvpy.jpg?fit=620%2C350&ssl=1" group-title="🇵🇾PARAGUAY", GEN TV
+#EXTINF:-1 tvg-logo="https://i0.wp.com/television.com.py/wp-content/uploads/2020/10/LogoGENtvpy.jpg?fit=620%2C350&ssl=1" group-title="🇵🇾PARAGUAY🇵🇾", GEN TV
 https://rds3gen.desdeparaguay.net/gentv/gentv_py_alta/chunklist.m3u8?admin=nacion
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/g0fZGjsc/telefuturo.png" group-title="🇵🇾PARAGUAY", TELEFUTURO
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/g0fZGjsc/telefuturo.png" group-title="🇵🇾PARAGUAY🇵🇾", TELEFUTURO
 https://copacogen.desdeparaguay.net/telefuturo/telefuturo_py_alta/index.m3u8?admin=tvaccion
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kEcOYML.png" group-title="🇵🇾PARAGUAY", MONUMENTAL
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kEcOYML.png" group-title="🇵🇾PARAGUAY🇵🇾", MONUMENTAL
 https://copacogen.desdeparaguay.net/monumentaltv/monumentaltv_med/playlist.m3u8?admin=tvaccion
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3jj0MQP.jpg" group-title="🇵🇾PARAGUAY", RED DIGITAL
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3jj0MQP.jpg" group-title="🇵🇾PARAGUAY🇵🇾", RED DIGITAL
 https://video.hostingcaaguazu.com:19360/reddigitalsanpedro/reddigitalsanpedro.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Z6y9wbMT/330x330-logo-grande-C9-N.png" group-title="🇵🇾PARAGUAY", C9N
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Z6y9wbMT/330x330-logo-grande-C9-N.png" group-title="🇵🇾PARAGUAY🇵🇾", C9N
 https://d1y0t05eznkmpn.cloudfront.net/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Z6y9wbMT/330x330-logo-grande-C9-N.png" group-title="🇵🇾PARAGUAY", C9N OPC 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Z6y9wbMT/330x330-logo-grande-C9-N.png" group-title="🇵🇾PARAGUAY🇵🇾", C9N OPC 2
 https://alba-py-c9n-c9n.stream.mediatiquestream.com/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/L5h8p4C4/snt.png" group-title="🇵🇾PARAGUAY", SNT
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/L5h8p4C4/snt.png" group-title="🇵🇾PARAGUAY🇵🇾", SNT
 https://alba-py-snt-snt.stream.mediatiquestream.com/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qR3vwG84/latele-py.png" group-title="🇵🇾PARAGUAY", LA TELE HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qR3vwG84/latele-py.png" group-title="🇵🇾PARAGUAY🇵🇾", LA TELE HD
 https://copacotf.desdeparaguay.net/latele/latele_py_alta/playlist.m3u8?admin=tvaccion
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TPKH8zGj/trecepy.png" group-title="🇵🇾PARAGUAY", TRECE
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TPKH8zGj/trecepy.png" group-title="🇵🇾PARAGUAY🇵🇾", TRECE
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/82.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/fyjHLrkr/abctv.png" group-title="🇵🇾PARAGUAY", ABC
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fyjHLrkr/abctv.png" group-title="🇵🇾PARAGUAY🇵🇾", ABC
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/7.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/pB0cvBG1/py-Tv-web-2.png" group-title="🇵🇾PARAGUAY", PARAGUAY TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pB0cvBG1/py-Tv-web-2.png" group-title="🇵🇾PARAGUAY🇵🇾", PARAGUAY TV
 https://stream.paraguaytv.gov.py/memfs/400fcc83-8f04-4497-8011-150847d44702.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/jz9XkvP/e40.png" group-title="🇵🇾PARAGUAY", E40
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jz9XkvP/e40.png" group-title="🇵🇾PARAGUAY🇵🇾", E40
 https://rds3gen.desdeparaguay.net/e40tv/e40tv_py_alta/playlist.m3u8?admin=tvaccion
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bXWzstH.png" group-title="🇵🇾PARAGUAY", FARRA TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bXWzstH.png" group-title="🇵🇾PARAGUAY🇵🇾", FARRA TV
 https://stream.farra.com.py/live/farra_low.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/xT2vp2TK/popu-tv-2.png" group-title="🇵🇾PARAGUAY", POPU TV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xT2vp2TK/popu-tv-2.png" group-title="🇵🇾PARAGUAY🇵🇾", POPU TV
 https://rds3gen.desdeparaguay.net/universotv/universotv_py_alta/chunklist.m3u8?admin=nacion
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/cXhyvZGC/R-1.png" group-title="🇵🇾PARAGUAY", 5 DIAS MPD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cXhyvZGC/R-1.png" group-title="🇵🇾PARAGUAY🇵🇾", 5 DIAS MPD
 https://cdn.cvattv.com.ar/live/c4eds/5_Dias_PY/SA_Live_dash_enc/5_Dias_PY.mpd?*
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/pVF8Tf5f/npy.png" group-title="🇵🇾PARAGUAY", NPY
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pVF8Tf5f/npy.png" group-title="🇵🇾PARAGUAY🇵🇾", NPY
 https://copacogen.desdeparaguay.net/npy/npy_py_alta/playlist.m3u8?admin=tvaccion
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/DzRp7xy9/unicanal.png" group-title="🇵🇾PARAGUAY", UNICANAL
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/DzRp7xy9/unicanal.png" group-title="🇵🇾PARAGUAY🇵🇾", UNICANAL
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/72.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/DzRp7xy9/unicanal.png" group-title="🇵🇾PARAGUAY", UNICANAL MPD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/DzRp7xy9/unicanal.png" group-title="🇵🇾PARAGUAY🇵🇾", UNICANAL MPD
 https://cdn.cvattv.com.ar/live/c4eds/UNICANAL_C4/SA_Live_dash_enc/UNICANAL_C4.mpd?*
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/HLvq6nfQ/logo-retina-01.png" group-title="🇵🇾PARAGUAY", UNION TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HLvq6nfQ/logo-retina-01.png" group-title="🇵🇾PARAGUAY🇵🇾", UNION TV
 https://copacogen.desdeparaguay.net/800tv/800tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/fLShcZf6/hei.png" group-title="🇵🇾PARAGUAY", HEI NOW
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fLShcZf6/hei.png" group-title="🇵🇾PARAGUAY🇵🇾", HEI NOW
 https://copacogen.desdeparaguay.net/heitv/heitv_py_alta/playlist.m3u8?admin=nacion
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/q761GQm6/motor-sur-media.png" group-title="🇵🇾PARAGUAY", MOTOR SUR MEDIA
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/q761GQm6/motor-sur-media.png" group-title="🇵🇾PARAGUAY🇵🇾", MOTOR SUR MEDIA
 https://video.hostingcaaguazu.com:19360/motorsurtv/motorsurtv.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/gcHT1f58/rtv.png" group-title="🇵🇾PARAGUAY", RTV PARANÁ
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gcHT1f58/rtv.png" group-title="🇵🇾PARAGUAY🇵🇾", RTV PARANÁ
 https://video.hostingcaaguazu.com:19360/rtvhd/rtvhd.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/P5nLVXQ2/caritas-tv.png" group-title="🇵🇾PARAGUAY", CÁRITAS TV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/P5nLVXQ2/caritas-tv.png" group-title="🇵🇾PARAGUAY🇵🇾", CÁRITAS TV
 https://rds3gen.desdeparaguay.net/caritastv/caritastv/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/VLn9kH7Z/nande-jara.png" group-title="🇵🇾PARAGUAY", ÑANDEJARA ÑE´E TV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VLn9kH7Z/nande-jara.png" group-title="🇵🇾PARAGUAY🇵🇾", ÑANDEJARA ÑE´E TV
 https://rds3gen.desdeparaguay.net/nandejaraneetv/nandejaraneetv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Y2z94C4V/rcc.png" group-title="🇵🇾PARAGUAY", RCC TV CHAQUEÑA
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Y2z94C4V/rcc.png" group-title="🇵🇾PARAGUAY🇵🇾", RCC TV CHAQUEÑA
 https://rds3gen.desdeparaguay.net/rcctv/rcctv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/wTZxC8bG/tv-chaquena.png" group-title="🇵🇾PARAGUAY", TV CHAQUEÑA
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wTZxC8bG/tv-chaquena.png" group-title="🇵🇾PARAGUAY🇵🇾", TV CHAQUEÑA
 https://rds3gen.desdeparaguay.net/tvchaquena/tvchaquena/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/LX4WNDTj/tva.png" group-title="🇵🇾PARAGUAY", TVA CORONEL OVIEDO
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/LX4WNDTj/tva.png" group-title="🇵🇾PARAGUAY🇵🇾", TVA CORONEL OVIEDO
 https://video.hostingcaaguazu.com:19360/tvairepy/tvairepy.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6RqpxYR/mitv.png" group-title="🇵🇾PARAGUAY", MI TV ITAPÚA
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6RqpxYR/mitv.png" group-title="🇵🇾PARAGUAY🇵🇾", MI TV ITAPÚA
 https://rds3gen.desdeparaguay.net/mitv/mitv/playlist.m3u8?admin=mitvitapua
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/jkvYVyz/Captura.png" group-title="🇵🇾PARAGUAY", GOTV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jkvYVyz/Captura.png" group-title="🇵🇾PARAGUAY🇵🇾", GOTV
 https://rds3.desdeparaguay.net/gotv/gotv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/pK5SNMT/bruno-masi-tv.png" group-title="🇵🇾PARAGUAY", BRUNO MASI TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pK5SNMT/bruno-masi-tv.png" group-title="🇵🇾PARAGUAY🇵🇾", BRUNO MASI TV
 https://rds3gen.desdeparaguay.net/brunomasitv/brunomasitv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/s37NZCT/espn-1B.png" group-title="⚽ ESPN ⚽", ESPN
@@ -171,8 +170,6 @@ http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-92.playl
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YBBb0NdH/s15377-ll-h15-ab.png" group-title="⚽ FOX SPORTS ⚽", FOX DEPORTES
 https://jmp2.uk/plu-63d0269d60bc8f000890facc.m3u8
 
-#EXTM3U
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/60QvHcnr/R-2.png" group-title="⚽TyC/TNT/DIRECTV SPORTS⚽", TYC SPORTS
 http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-90.playlist.m3u8
 
@@ -202,8 +199,6 @@ https://d107yb993altze.cloudfront.net/out/v1/772e0b0193134726ad84693b7baca6c6/in
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/njgDHwJ/unnamed.webp" group-title="⚽TyC/TNT/DIRECTV SPORTS⚽", TYC SPORT (PLAY 5)
 https://d21no6qan3ol31.cloudfront.net/out/v1/a2f25f61e9d44701aa4e813ac5efc4a4/index.m3u8
-
-#EXTM3U
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gr9x3z71/Spor-TV-2021.png" group-title="⚽ESPORTE BR⚽", SporTV
 https://stm.sinalmycn.com/21000/video.m3u8?token=EkP2qSi13ckjQRLSIDoxI5rMZsF5rZyEYzqWjxD248ScEUPYQ0
@@ -244,47 +239,47 @@ https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/8bbe6817af0af2e0e5a6df96f245b752.webp" group-title="⚽ESPORTE BR⚽", N SPORTS
 https://ogc-nsprt-tcl-roku-syndication.otteravision.com/ogc/nsprt/nsprt_720p.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0pDy6f4.png" group-title="OTROS DEPORTES", PLUTO DEPORTES
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0pDy6f4.png" group-title="⚽OTROS DEPORTES⚽", PLUTO DEPORTES
 https://jmp2.uk/plu-5dcde07af1c85b0009b18651.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yJlY9Rr.png" group-title="OTROS DEPORTES", PLUTO FUTBOL
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yJlY9Rr.png" group-title="⚽OTROS DEPORTES⚽", PLUTO FUTBOL
 https://jmp2.uk/plu-63c6e37e636b7e0007ccb635.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/FOX_wordmark-orange.svg/960px-FOX_wordmark-orange.svg.png" group-title="OTROS DEPORTES", FOX TUBI
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/FOX_wordmark-orange.svg/960px-FOX_wordmark-orange.svg.png" group-title="⚽OTROS DEPORTES⚽", FOX TUBI
 http://74.208.30.121/fox_mexico/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/FOX_wordmark-orange.svg/960px-FOX_wordmark-orange.svg.png" group-title="OTROS DEPORTES", FOX TUBI XTRA
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/FOX_wordmark-orange.svg/960px-FOX_wordmark-orange.svg.png" group-title="⚽OTROS DEPORTES⚽", FOX TUBI XTRA
 https://live-manifest.production-public.tubi.io/live/35557bb9-7c94-40ea-85f7-c94d852f8374/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="OTROS DEPORTES", TUDN
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="⚽OTROS DEPORTES⚽", TUDN
 https://streaming.alwaysdata.net/tudn.php
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eMjutHS.png" group-title="OTROS DEPORTES", CBS SPORTS GOLAZO!
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eMjutHS.png" group-title="⚽OTROS DEPORTES⚽", CBS SPORTS GOLAZO!
 https://jmp2.uk/plu-63a0e33a45264d000850ed7e.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/q8BENJg.png" group-title="OTROS DEPORTES", CBS SPORTS HQ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/q8BENJg.png" group-title="⚽OTROS DEPORTES⚽", CBS SPORTS HQ
 https://jmp2.uk/plu-5e9f2c05172a0f0007db4786.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RLrMBlm.png" group-title="OTROS DEPORTES", BEIN SPORTS Ñ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RLrMBlm.png" group-title="⚽OTROS DEPORTES⚽", BEIN SPORTS Ñ
 https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol1080.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tsljAnY.png" group-title="OTROS DEPORTES", TENNIS CHANNEL
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tsljAnY.png" group-title="⚽OTROS DEPORTES⚽", TENNIS CHANNEL
 https://jmp2.uk/plu-6870c9333ffa5e0c914e9205.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/FIFA%2B_%282025%29.svg" group-title="OTROS DEPORTES", FIFA+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/FIFA%2B_%282025%29.svg" group-title="⚽OTROS DEPORTES⚽", FIFA+
 https://d63fabad.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWVzX0ZJRkFQbHVzU3BhbmlzaF9ITFM/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/61tSA6a.png" group-title="OTROS DEPORTES", CLARO SPORTS MX
+#EXTINF:-1 tvg-logo="https://i.imgur.com/61tSA6a.png" group-title="⚽OTROS DEPORTES⚽", CLARO SPORTS MX
 https://dai.google.com/linear/hls/event/_OKWx76jT7mivD6d-25QAw/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/n0kd17r.png" group-title="OTROS DEPORTES", CLARO SPORTS CH
+#EXTINF:-1 tvg-logo="https://i.imgur.com/n0kd17r.png" group-title="⚽OTROS DEPORTES⚽", CLARO SPORTS CH
 https://jmp2.uk/plu-6320d2755e54db000783fd87.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ilay5Jr.png" group-title="OTROS DEPORTES", LALIGA SMARTBANK
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ilay5Jr.png" group-title="⚽OTROS DEPORTES⚽", LALIGA SMARTBANK
 http://latam-cache-sv2-cdn.latamlive.net/LA_LIGA_SMARTBANK_IP_ENC_LIVE/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5pMo7dL.png" group-title="OTROS DEPORTES", REAL MADRID TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5pMo7dL.png" group-title="⚽OTROS DEPORTES⚽", REAL MADRID TV
 https://jmp2.uk/plu-63dac28760bc8f0008a7654b.m3u8
 
-#EXTINF:-1 tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/7c59e962-086b-4d64-afb3-7f83ca8c3377-width200-quality90.jpeg" group-title="OTROS DEPORTES", TOP BARCA
+#EXTINF:-1 tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/7c59e962-086b-4d64-afb3-7f83ca8c3377-width200-quality90.jpeg" group-title="⚽OTROS DEPORTES⚽", TOP BARCA
 https://jmp2.uk/plu-67a52c8397782f00081879aa.m3u8

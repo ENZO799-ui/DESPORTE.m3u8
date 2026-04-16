@@ -20,7 +20,7 @@ https://killermina.github.io/player2/
 #EXTINF:-1  tvg-logo="https://imgs.search.brave.com/0elrILScO2i23kU0vVp0bieL9ZyOPXdeL9cOjtW0oq8/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy8x/LzEwL1BhcmFndWF5_X1RWX2xvZ28ucG5n" group-title="🇵🇾PARAGUAY🇵🇾", MBOKAYATY TV
 https://live.enhdtv.com:8081/8174/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/fyVSj4Sp/canal-vision-tv.png" group-title="🇵🇾PARAGUAY", VISIÓN TV VILLARRICA
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fyVSj4Sp/canal-vision-tv.png" group-title="🇵🇾PARAGUAY🇵🇾", VISIÓN TV VILLARRICA
 https://rds3gen.desdeparaguay.net/satelitaltv/satelitaltv/chunklist.m3u8?admin=nacion
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Ycu%C3%A1_Bola%C3%B1os_%28Caazap%C3%A1%29.jpg" group-title="🇵🇾PARAGUAY🇵🇾", CAAZAPA TV
@@ -29,7 +29,7 @@ https://live.enhdtv.com:8081/8108/index.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/television.com.py/wp-content/uploads/2020/10/LogoGENtvpy.jpg?fit=620%2C350&ssl=1" group-title="🇵🇾PARAGUAY🇵🇾", GEN TV
 https://rds3gen.desdeparaguay.net/gentv/gentv_py_alta/chunklist.m3u8?admin=nacion
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/g0fZGjsc/telefuturo.png" group-title="🇵🇾PARAGUAY🇵🇾", TELEFUTURO
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/Telefuturo/picture?width=200&height=200" group-title="🇵🇾PARAGUAY🇵🇾", TELEFUTURO
 https://copacogen.desdeparaguay.net/telefuturo/telefuturo_py_alta/index.m3u8?admin=tvaccion
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kEcOYML.png" group-title="🇵🇾PARAGUAY🇵🇾", MONUMENTAL
@@ -44,16 +44,16 @@ https://d1y0t05eznkmpn.cloudfront.net/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Z6y9wbMT/330x330-logo-grande-C9-N.png" group-title="🇵🇾PARAGUAY🇵🇾", C9N OPC 2
 https://alba-py-c9n-c9n.stream.mediatiquestream.com/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/L5h8p4C4/snt.png" group-title="🇵🇾PARAGUAY🇵🇾", SNT
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/SNT_LOGO.jpg" group-title="🇵🇾PARAGUAY🇵🇾", SNT
 https://alba-py-snt-snt.stream.mediatiquestream.com/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qR3vwG84/latele-py.png" group-title="🇵🇾PARAGUAY🇵🇾", LA TELE HD
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/LatelePy/picture?width=200&height=200" group-title="🇵🇾PARAGUAY🇵🇾", LA TELE HD
 https://copacotf.desdeparaguay.net/latele/latele_py_alta/playlist.m3u8?admin=tvaccion
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TPKH8zGj/trecepy.png" group-title="🇵🇾PARAGUAY🇵🇾", TRECE
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfKOWcmza3biSWSrLZMRhYP5Mb9DnSZu5qyQ&s" group-title="🇵🇾PARAGUAY🇵🇾", TRECE
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/82.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/fyjHLrkr/abctv.png" group-title="🇵🇾PARAGUAY🇵🇾", ABC
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/ABCTVpy/picture?width=200&height=200" group-title="🇵🇾PARAGUAY🇵🇾", ABC
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/7.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pB0cvBG1/py-Tv-web-2.png" group-title="🇵🇾PARAGUAY🇵🇾", PARAGUAY TV
@@ -65,25 +65,25 @@ https://rds3gen.desdeparaguay.net/e40tv/e40tv_py_alta/playlist.m3u8?admin=tvacci
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bXWzstH.png" group-title="🇵🇾PARAGUAY🇵🇾", FARRA TV
 https://stream.farra.com.py/live/farra_low.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/xT2vp2TK/popu-tv-2.png" group-title="🇵🇾PARAGUAY🇵🇾", POPU TV
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/exbBCaessS5ew-F6NFy9u6u6Yy-K7kMZ1OOI9CtlxSC-CK1W6FZaD9j-OqQBv-piZeakhs1ayg=s160-c-k-c0x00ffffff-no-rj" group-title="🇵🇾PARAGUAY🇵🇾", POPU TV
 https://rds3gen.desdeparaguay.net/universotv/universotv_py_alta/chunklist.m3u8?admin=nacion
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cXhyvZGC/R-1.png" group-title="🇵🇾PARAGUAY🇵🇾", 5 DIAS MPD
 https://cdn.cvattv.com.ar/live/c4eds/5_Dias_PY/SA_Live_dash_enc/5_Dias_PY.mpd?*
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/pVF8Tf5f/npy.png" group-title="🇵🇾PARAGUAY🇵🇾", NPY
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/npyoficial/picture?width=200&height=200" group-title="🇵🇾PARAGUAY🇵🇾", NPY
 https://copacogen.desdeparaguay.net/npy/npy_py_alta/playlist.m3u8?admin=tvaccion
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/DzRp7xy9/unicanal.png" group-title="🇵🇾PARAGUAY🇵🇾", UNICANAL
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/Unicanal/picture?width=200&height=200" group-title="🇵🇾PARAGUAY🇵🇾", UNICANAL
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/72.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/DzRp7xy9/unicanal.png" group-title="🇵🇾PARAGUAY🇵🇾", UNICANAL MPD
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/Unicanal/picture?width=200&height=200" group-title="🇵🇾PARAGUAY🇵🇾", UNICANAL MPD
 https://cdn.cvattv.com.ar/live/c4eds/UNICANAL_C4/SA_Live_dash_enc/UNICANAL_C4.mpd?*
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HLvq6nfQ/logo-retina-01.png" group-title="🇵🇾PARAGUAY🇵🇾", UNION TV
 https://copacogen.desdeparaguay.net/800tv/800tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/fLShcZf6/hei.png" group-title="🇵🇾PARAGUAY🇵🇾", HEI NOW
+#EXTINF:-1 tvg-logo="https://radiosdeparaguay.com.py/wp-content/uploads/2020/09/Radio-Hei.jpg" group-title="🇵🇾PARAGUAY🇵🇾", HEI NOW
 https://copacogen.desdeparaguay.net/heitv/heitv_py_alta/playlist.m3u8?admin=nacion
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/q761GQm6/motor-sur-media.png" group-title="🇵🇾PARAGUAY🇵🇾", MOTOR SUR MEDIA

@@ -197,49 +197,10 @@ https://d107yb993altze.cloudfront.net/out/v1/772e0b0193134726ad84693b7baca6c6/in
 #EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://i.ibb.co/njgDHwJ/unnamed.webp" group-title="⚽TyC/TNT/DIRECTV SPORTS⚽", TYC SPORT (PLAY 5)
 https://d21no6qan3ol31.cloudfront.net/out/v1/a2f25f61e9d44701aa4e813ac5efc4a4/index.m3u8
 
-#EXTINF:-1 tvg-id="SporTV.br" tvg-logo="https://i.postimg.cc/gr9x3z71/Spor-TV-2021.png" group-title="⚽ESPORTE BR⚽", SporTV
-https://stm.sinalmycn.com/21000/video.m3u8
-
-#EXTINF:-1 tvg-id="SporTV2.br" tvg-logo="https://i.imgur.com/pBiUnb2.png" group-title="⚽ESPORTE BR⚽", SporTV2
-https://stm.sinalmycn.com/21003/video.m3u8
-
-#EXTINF:-1 tvg-id="SporTV3.br" tvg-logo="https://i.imgur.com/mWOR8pi.png" group-title="⚽ESPORTE BR⚽", SporTV3
-https://stm.sinalmycn.com/21006/video.m3u8
-
-#EXTINF:-1 tvg-id="SporTVAlternativo.br" tvg-logo="https://i.imgur.com/8M5dLEb.png" group-title="⚽ESPORTE BR⚽", Sportv Alternativo
-https://stm.sinalmycn.com/19024/video.m3u8
-
-#EXTINF:-1 tvg-id="SporTV2Alternativo.br" tvg-logo="https://i.imgur.com/aoMlRgP.png" group-title="⚽ESPORTE BR⚽", Sportv2 Alternativo
-https://stm.sinalmycn.com/19025/video.m3u8
-
-#EXTINF:-1 tvg-id="PremiereFC1.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Premiere_(2017)_logo.png/960px-Premiere_(2017)_logo.png" group-title="⚽ESPORTE BR⚽", PREMIERE
-https://stm.sinalmycn.com/20000/video.m3u8
-
-#EXTINF:-1 tvg-id="PremiereFC2.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Premiere_(2017)_logo.png/960px-Premiere_(2017)_logo.png" group-title="⚽ESPORTE BR⚽", PREMIERE 2
-https://stm.sinalmycn.com/20003/video.m3u8
-
-#EXTINF:-1 tvg-id="PremiereFC3.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Premiere_(2017)_logo.png/960px-Premiere_(2017)_logo.png" group-title="⚽ESPORTE BR⚽", PREMIERE 3
-https://stm.sinalmycn.com/20006/video.m3u8?token=EkP2qSi13ckjQRLSIDoxI5rMZsF5rZyEYzqWjxD248ScEUPYQ0
-
-#EXTINF:-1 tvg-id="PremiereFC4.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Premiere_(2017)_logo.png/960px-Premiere_(2017)_logo.png" group-title="⚽ESPORTE BR⚽", PREMIERE 4
-https://stm.sinalmycn.com/20009/video.m3u8
-
-#EXTINF:-1 tvg-id="PremiereFC5.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Premiere_(2017)_logo.png/960px-Premiere_(2017)_logo.png" group-title="⚽ESPORTE BR⚽", PREMIERE 5
-https://stm.sinalmycn.com/20012/video.m3u8
-
-#EXTINF:-1 tvg-id="PremiereFC6.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Premiere_(2017)_logo.png/960px-Premiere_(2017)_logo.png" group-title="⚽ESPORTE BR⚽", PREMIERE 6
-https://stm.sinalmycn.com/20015/video.m3u8
-
-#EXTINF:-1 tvg-id="PremiereFC7.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Premiere_(2017)_logo.png/960px-Premiere_(2017)_logo.png" group-title="⚽ESPORTE BR⚽", PREMIERE 7
-https://stm.sinalmycn.com/20018/video.m3u8
-
-#EXTINF:-1 tvg-id="PremiereFC8.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Premiere_(2017)_logo.png/960px-Premiere_(2017)_logo.png" group-title="⚽ESPORTE BR⚽", PREMIERE 8
-https://stm.sinalmycn.com/20021/video.m3u8
-
-#EXTINF:-1 tvg-id="CazeTV.br" tvg-logo="https://i.ibb.co/W3XpzQy/cazetv.png" group-title="⚽ESPORTE BR⚽", Cazé TV
+#EXTINF:-1 tvg-id="CazeTV.br" tvg-logo="https://i.ibb.co/W3XpzQy/cazetv.png" group-title="⚽OTROS DEPORTES⚽", Cazé TV
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
 
-#EXTINF:-1 tvg-id="nsports.com.br" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/8bbe6817af0af2e0e5a6df96f245b752.webp" group-title="⚽ESPORTE BR⚽", N SPORTS
+#EXTINF:-1 tvg-id="nsports.com.br" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/8bbe6817af0af2e0e5a6df96f245b752.webp" group-title="⚽OTROS DEPORTES⚽", N SPORTS
 https://ogc-nsprt-tcl-roku-syndication.otteravision.com/ogc/nsprt/nsprt_720p.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/0pDy6f4.png" group-title="⚽OTROS DEPORTES⚽", PLUTO DEPORTES
@@ -260,7 +221,7 @@ https://jmp2.uk/plu-63a0e33a45264d000850ed7e.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/q8BENJg.png" group-title="⚽OTROS DEPORTES⚽", CBS SPORTS HQ
 https://jmp2.uk/plu-5e9f2c05172a0f0007db4786.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RLrMBlm.png" group-title="⚽OTROS DEPORTES⚽", BEIN SPORTS Ñ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RLrMBlm.png" group-title="⚽OTROS DEPORTES⚽", BEIN SPORTS XTRA
 https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol1080.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tsljAnY.png" group-title="⚽OTROS DEPORTES⚽", TENNIS CHANNEL
@@ -275,55 +236,52 @@ https://dai.google.com/linear/hls/event/_OKWx76jT7mivD6d-25QAw/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/n0kd17r.png" group-title="⚽OTROS DEPORTES⚽", CLARO SPORTS CH
 https://jmp2.uk/plu-6320d2755e54db000783fd87.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ilay5Jr.png" group-title="⚽OTROS DEPORTES⚽", LALIGA SMARTBANK
-http://latam-cache-sv2-cdn.latamlive.net/LA_LIGA_SMARTBANK_IP_ENC_LIVE/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5pMo7dL.png" group-title="⚽OTROS DEPORTES⚽", REAL MADRID TV
 https://jmp2.uk/plu-63dac28760bc8f0008a7654b.m3u8
 
 #EXTINF:-1 tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/7c59e962-086b-4d64-afb3-7f83ca8c3377-width200-quality90.jpeg" group-title="⚽OTROS DEPORTES⚽", TOP BARCA
 https://jmp2.uk/plu-67a52c8397782f00081879aa.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5gR3ZQKg/image.png" group-title="DEPORTE MOTOR", GPTV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5gR3ZQKg/image.png" group-title="🛞DEPORTE MOTOR🛞", GPTV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=16499&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_br&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE].m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/r1gcP2y/image.png" group-title="DEPORTE MOTOR", Rally Tv
+#EXTINF:-1 tvg-logo="https://i.ibb.co/r1gcP2y/image.png" group-title="🛞DEPORTE MOTOR🛞", Rally Tv
 https://dv1e2nq0r4g7p.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n8rallqdrsy49/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/M3Hd6vN/image.png" group-title="DEPORTE MOTOR", F1 Tv
+#EXTINF:-1 tvg-logo="https://i.ibb.co/M3Hd6vN/image.png" group-title="🛞DEPORTE MOTOR🛞", F1 Tv
 https://jmp2.uk/plu-65c69ee3d77d450008c80438.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/200mKsrT/image.png" group-title="DEPORTE MOTOR", Nascar
+#EXTINF:-1 tvg-logo="https://i.ibb.co/200mKsrT/image.png" group-title="🛞DEPORTE MOTOR🛞", Nascar
 https://amg00115-amg00115c1-nascar-northamerica-6927.playouts.now.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/RpXS2q5Y/image.png" group-title="DEPORTE MOTOR", Speed Sport
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RpXS2q5Y/image.png" group-title="🛞DEPORTE MOTOR🛞", Speed Sport
 https://linear-599.frequency.stream/dist/stirr/599/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/xKgNJsSr/image.png" group-title="DEPORTE MOTOR", Garage Tv
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xKgNJsSr/image.png" group-title="🛞DEPORTE MOTOR🛞", Garage Tv
 https://stream1.sersat.com/hls/garagetv.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0pT7WFQ2/image.png" group-title="DEPORTE MOTOR", Motor Vision
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0pT7WFQ2/image.png" group-title="🛞DEPORTE MOTOR🛞", Motor Vision
 https://mvg-mv-pt.otteravision.com/mvg/mv_pt/mv_pt.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/k31DCf4/Do0-qz-Jj-Xw-GBUbh-K7n-CQi-Vro2-YT51-DHh-Bw7-On-Tv-Jr35-PEACSqaqhxf-Hdmed-SZr-Ei-LTiuq-ERb-s900-c-k.webp" group-title="COMBAT UFC WWE", UFC
+#EXTINF:-1 tvg-logo="https://i.ibb.co/k31DCf4/Do0-qz-Jj-Xw-GBUbh-K7n-CQi-Vro2-YT51-DHh-Bw7-On-Tv-Jr35-PEACSqaqhxf-Hdmed-SZr-Ei-LTiuq-ERb-s900-c-k.webp" group-title="🥊COMBAT UFC WWE🥊", UFC
 https://dbrb49pjoymg4.cloudfront.net/10001/99951134/hls/playlist.m3u8?ads.xumo_channelId=99951134
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/67a52cd4ec91870008a62164/solidLogoPNG.png?worldtv2" group-title="COMBAT UFC WWE", UFC 2
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/67a52cd4ec91870008a62164/solidLogoPNG.png?worldtv2" group-title="🥊COMBAT UFC WWE🥊", UFC 2
 https://jmp2.uk/plu-67a52cd4ec91870008a62164.m3u8
 
-#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99951154/500x400.webp?type=color_onBlack" group-title="COMBAT UFC WWE", BOXING TV
+#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99951154/500x400.webp?type=color_onBlack" group-title="🥊COMBAT UFC WWE🥊", BOXING TV
 https://d2irko5f9gt1c5.cloudfront.net/10008/99951154/hls/BOXINGTV_SCTE.m3u8?ads.xumo_channelId=99951154
 
-#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99951132/500x400.webp?type=color_onBlack" group-title="COMBAT UFC WWE", FIGHT NETWORK
+#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99951132/500x400.webp?type=color_onBlack" group-title="🥊COMBAT UFC WWE🥊", FIGHT NETWORK
 https://dbrb49pjoymg4.cloudfront.net/10001/99951132/hls/master.m3u8?ads.xumo_channelId=99951132
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/pjHcQHK/FITE247.png" group-title="COMBAT UFC WWE", FITE 24/7
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pjHcQHK/FITE247.png" group-title="🥊COMBAT UFC WWE🥊", FITE 24/7
 https://d3d85c7qkywguj.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/FiteTV-DistroTV/263.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/64df7a9a44fe100009b6ac5a/solidLogoPNG.png?worldtv2" group-title="COMBAT UFC WWE", DAZN COMBAT
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/64df7a9a44fe100009b6ac5a/solidLogoPNG.png?worldtv2" group-title="🥊COMBAT UFC WWE🥊", DAZN COMBAT
 https://jmp2.uk/plu-64df7a9a44fe100009b6ac5a.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/CmdBHzB/ufa.png" group-title="COMBAT UFC WWE", UFA
+#EXTINF:-1 tvg-logo="https://i.ibb.co/CmdBHzB/ufa.png" group-title="🥊COMBAT UFC WWE🥊", UFA
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/united-fight-alliance/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1282/CH_LOGO/160/160/0/0/21817888076947.png" group-title="🎬 UNIVERSAL+ | HBO", Universal Cinema
@@ -365,106 +323,106 @@ http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/34.m3u8
 #EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/108/CH_LOGO/160/160/0/0/6041444607334.png" group-title="🎬 UNIVERSAL+ | HBO", HBO Xtreme
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/35.m3u8
 
-#EXTINF:-1 tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/645e383c-88f5-4378-88fd-0d4989c01cde.jpeg" group-title="Pack RakutenTV", Pelis Top
+#EXTINF:-1 tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/645e383c-88f5-4378-88fd-0d4989c01cde.jpeg" group-title="📦Pack RakutenTV📦", Pelis Top
 https://top-movies-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5983/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/cc0a135a-3a25-4b7a-84b3-d29d5ee6e4d8.jpeg" group-title="Pack RakutenTV", Accion
+#EXTINF:-1 tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/cc0a135a-3a25-4b7a-84b3-d29d5ee6e4d8.jpeg" group-title="📦Pack RakutenTV📦", Accion
 https://action-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6069/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/68048254-04b5-4438-bb14-118427a0ba3a.jpeg" group-title="Pack RakutenTV", Comedio
+#EXTINF:-1 tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/68048254-04b5-4438-bb14-118427a0ba3a.jpeg" group-title="📦Pack RakutenTV📦", Comedio
 https://comedy-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6180/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/400caa96-4298-41ae-92a4-8a2406fc81c8.jpeg" group-title="Pack RakutenTV", Drama
+#EXTINF:-1 tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/400caa96-4298-41ae-92a4-8a2406fc81c8.jpeg" group-title="📦Pack RakutenTV📦", Drama
 https://drama-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6092/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/ec9d1d83-74cc-443d-b2ec-b51b970fe831.jpeg" group-title="Pack RakutenTV", Peliculas Romanticas
+#EXTINF:-1 tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/ec9d1d83-74cc-443d-b2ec-b51b970fe831.jpeg" group-title="📦Pack RakutenTV📦", Peliculas Romanticas
 https://romance-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6105/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/294f65bc-fa27-494d-9cb5-423260b7e875.jpeg" group-title="Pack RakutenTV", Cine Español
+#EXTINF:-1 tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/294f65bc-fa27-494d-9cb5-423260b7e875.jpeg" group-title="📦Pack RakutenTV📦", Cine Español
 https://spanish-cinema-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6196/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/a0e491eb-8f73-4bd9-a034-0fe9fd6984d7.jpeg" group-title="Pack RakutenTV", Sci-Fi
+#EXTINF:-1 tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/a0e491eb-8f73-4bd9-a034-0fe9fd6984d7.jpeg" group-title="📦Pack RakutenTV📦", Sci-Fi
 https://sci-fi-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6740/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/8f5f37e8-70f0-4d3d-b8cd-ce5f34d6e916.jpeg" group-title="Pack RakutenTV", Thrillers
+#EXTINF:-1 tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/8f5f37e8-70f0-4d3d-b8cd-ce5f34d6e916.jpeg" group-title="📦Pack RakutenTV📦", Thrillers
 https://thriller-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6480/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/fe76f469-0869-4bd8-a5de-a471d9740965.png" group-title="Pack RakutenTV", 100% Navidad
+#EXTINF:-1 tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/fe76f469-0869-4bd8-a5de-a471d9740965.png" group-title="📦Pack RakutenTV📦", 100% Navidad
 https://family-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6205/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/e9ebb3e1-2419-4299-91f5-20256e320589.jpeg" group-title="Pack RakutenTV", Mytime Movie Network
+#EXTINF:-1 tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/e9ebb3e1-2419-4299-91f5-20256e320589.jpeg" group-title="📦Pack RakutenTV📦", Mytime Movie Network
 https://amg00500-amg00500c3-rakuten-uk-3910.playouts.now.amagi.tv/playlist/amg00500-studiocitypicturesfast-mytimemovienetworkspain-rakutenuk/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/2c7d3efb-0e8c-49b8-a130-05f95b4c53ba.jpeg" group-title="Pack RakutenTV", Cine Friki
+#EXTINF:-1 tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/2c7d3efb-0e8c-49b8-a130-05f95b4c53ba.jpeg" group-title="📦Pack RakutenTV📦", Cine Friki
 https://zylo-cinefriki-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-zylo-cinefriki-rakuten/CDN/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/9d7e65e4-f350-4db2-80ec-461d1ed8371a.jpeg" group-title="Pack RakutenTV", Cine Western
+#EXTINF:-1 tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/9d7e65e4-f350-4db2-80ec-461d1ed8371a.jpeg" group-title="📦Pack RakutenTV📦", Cine Western
 https://amg00711-zylo-amg00711c9-rakuten-es-5783.playouts.now.amagi.tv/playlist/amg00711-zylofast-cinewesternes-rakutenes/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/726cbff5-c46e-48ec-b025-8ac30e53f370.jpeg" group-title="Pack RakutenTV", Crimen
+#EXTINF:-1 tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/726cbff5-c46e-48ec-b025-8ac30e53f370.jpeg" group-title="📦Pack RakutenTV📦", Crimen
 https://crime-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6220/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/87e940da-d9b1-4e7b-bf1b-499f3b0afe16.jpeg" group-title="Pack RakutenTV", Todo Novelas
+#EXTINF:-1 tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/87e940da-d9b1-4e7b-bf1b-499f3b0afe16.jpeg" group-title="📦Pack RakutenTV📦", Todo Novelas
 https://amg00711-zylo-amg00711c3-rakuten-es-5794.playouts.now.amagi.tv/playlist/amg00711-zylofast-frecuencianovelas-rakutenes/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/logo/aguilaroja_c_1920x1080_0.jpg" group-title="Pack RuntimeTV", Águila Roja
+#EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/logo/aguilaroja_c_1920x1080_0.jpg" group-title="📦Pack RuntimeTV📦", Águila Roja
 https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1
 
-#EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/logo/runtime_series_16x9_0.jpg" group-title="Pack RuntimeTV", Runtime Series
+#EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/logo/runtime_series_16x9_0.jpg" group-title="📦Pack RuntimeTV📦", Runtime Series
 https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1
 
-#EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/logo/QAzPD4zniCaQPONpwXrDlvNnYTRwTbefD50G-nf9KhM.jpg" group-title="Pack RuntimeTV", Rebelde
+#EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/logo/QAzPD4zniCaQPONpwXrDlvNnYTRwTbefD50G-nf9KhM.jpg" group-title="📦Pack RuntimeTV📦", Rebelde
 https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1
 
-#EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/logo/runtime_ana_y_los_7_16x9_v2.jpg" group-title="Pack RuntimeTV", Ana y los 7
+#EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/logo/runtime_ana_y_los_7_16x9_v2.jpg" group-title="📦Pack RuntimeTV📦", Ana y los 7
 https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1
 
-#EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/logo/runtime_curro_jimenez_16x9_v2.jpg" group-title="Pack RuntimeTV", Curro Jiménez
+#EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/logo/runtime_curro_jimenez_16x9_v2.jpg" group-title="📦Pack RuntimeTV", Curro Jiménez
 https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1
 
-#EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/logo/filmco_-_logo_y_fondo_0.jpg" group-title="Pack RuntimeTV", Film&Co
+#EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/logo/filmco_-_logo_y_fondo_0.jpg" group-title="📦Pack RuntimeTV📦", Film&Co
 https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1
 
-#EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/logo/runtime_accion_16x9.jpg" group-title="Pack RuntimeTV", Runtime Acción
+#EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/logo/runtime_accion_16x9.jpg" group-title="📦Pack RuntimeTV📦", Runtime Acción
 https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1
 
-#EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/logo/04082023_logo_verdi_tv_fila_canales_1920x1080.jpg" group-title="Pack RuntimeTV", Cines Verdi
+#EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/logo/04082023_logo_verdi_tv_fila_canales_1920x1080.jpg" group-title="📦Pack RuntimeTV📦", Cines Verdi
 https://daiconnect.com/live/hls/tvup/rt-cv/.m3u8?DAdID={{DEVICE_ID}}
 
-#EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/logo/runtime_comedia_16x9.jpg" group-title="Pack RuntimeTV", Runtime Comedia
+#EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/logo/runtime_comedia_16x9.jpg" group-title="📦Pack RuntimeTV📦", Runtime Comedia
 https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1
 
-#EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/logo/logo_feel_good_fila_canales_1920x1080.jpg" group-title="Pack RuntimeTV", FeelGood
+#EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/logo/logo_feel_good_fila_canales_1920x1080.jpg" group-title="📦Pack RuntimeTV📦", FeelGood
 https://daiconnect.com/live/hls/tvup/rt-fg/.m3u8?DAdID={{DEVICE_ID}}
 
-#EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/logo/runtime_romance_16x9.jpg" group-title="Pack RuntimeTV", Runtime Romance
+#EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/logo/runtime_romance_16x9.jpg" group-title="📦Pack RuntimeTV📦", Runtime Romance
 https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1
 
-#EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/logo/YECKAbCgFevzZ29V9z63YYJBzO_2PHeK42PRTrTirgg.jpg" group-title="Pack RuntimeTV", MyTime Movie Network
+#EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/logo/YECKAbCgFevzZ29V9z63YYJBzO_2PHeK42PRTrTirgg.jpg" group-title="📦Pack RuntimeTV📦", MyTime Movie Network
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00500-studiocitypictu-mytimespanish-runtimees/playlist.m3u8?ip=185.250.39.131
 
-#EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/logo/runtime_clasicos_16x9.jpg" group-title="Pack RuntimeTV", Runtime Clásicos
+#EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/logo/runtime_clasicos_16x9.jpg" group-title="📦Pack RuntimeTV📦", Runtime Clásicos
 https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1
 
-#EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/logo/KTc3gRKJcyqG7d4VOOn1ZJrx1lvd_M2EYVVbyihgT5I.jpg" group-title="Pack RuntimeTV", Corazón
+#EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/logo/KTc3gRKJcyqG7d4VOOn1ZJrx1lvd_M2EYVVbyihgT5I.jpg" group-title="📦Pack RuntimeTV📦", Corazón
 https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1
 
-#EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/logo/runtime_thriller_16x9.jpg" group-title="Pack RuntimeTV", Runtime Thriller
+#EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/logo/runtime_thriller_16x9.jpg" group-title="📦Pack RuntimeTV📦", Runtime Thriller
 https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1
 
-#EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/logo/runtime_crimen_16x9.jpg" group-title="Pack RuntimeTV", Runtime Crimen
+#EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/logo/runtime_crimen_16x9.jpg" group-title="📦Pack RuntimeTV📦", Runtime Crimen
 https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1
 
-#EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/logo/f5457ac0-sangre_fria_1920x1080_0.jpg" group-title="Pack RuntimeTV", Sangre Fría
+#EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/logo/f5457ac0-sangre_fria_1920x1080_0.jpg" group-title="📦Pack RuntimeTV📦", Sangre Fría
 https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1
 
-#EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/logo/pocoyo_-_logo_y_fondo_0.jpg" group-title="Pack RuntimeTV", Pocoyó
+#EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/logo/pocoyo_-_logo_y_fondo_0.jpg" group-title="📦Pack RuntimeTV📦", Pocoyó
 https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1
 
-#EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/logo/runtime_familia_16x9_2.jpg" group-title="Pack RuntimeTV", Runtime Familia
+#EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/logo/runtime_familia_16x9_2.jpg" group-title="📦Pack RuntimeTV📦", Runtime Familia
 https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1
 
-#EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/logo/VCelpUsQlE3p4isHeF8xqVjf1NcR7Q_qeU0_dYjlOPc.jpg" group-title="Pack RuntimeTV", Pitufo TV
+#EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/logo/VCelpUsQlE3p4isHeF8xqVjf1NcR7Q_qeU0_dYjlOPc.jpg" group-title="📦Pack RuntimeTV📦", Pitufo TV
 https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1
 
 #EXTINF:-1 tvg-id="MTV.jp@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/960px-MTV_2021_%28brand_version%29.svg.png" group-title="🎵MUSICALES🎵", MTV Japan

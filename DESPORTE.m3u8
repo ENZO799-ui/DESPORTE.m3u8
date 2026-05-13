@@ -1,15 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="TigoSports.py" tvg-logo="https://i.postimg.cc/Y2D0DfR1/tigo-sports-2.png" group-title="🇵🇾TIGO SPORTS🇵🇾", EVENTO 1
-https://d3kzwqwnq1f7tq.cloudfront.net/out/v1/25ca218d53194065bedf6d998ace462e/index.mpd
-
-#EXTINF:-1 tvg-id="TigoSports.py" tvg-logo="https://i.postimg.cc/vZ2db31z/tigo-sports-mas.png" group-title="🇵🇾TIGO SPORTS🇵🇾", EVENTOS 2
-https://d2jluxxgx550su.cloudfront.net/out/v1/62de20495af84f908fa8963f50c44d46/index.mpd
-
 #EXTINF:-1 tvg-id="TigoSports.py" tvg-logo="https://i.ibb.co/5X20hxjL/KN-copia-4.png" group-title="🇵🇾TIGO SPORTS🇵🇾", TIGO EVENTOS
 https://live.enhdtv.com:8081/8160/index.m3u8
 
-#EXTINF:-1 tvg-id="TigoSports.py" tvg-logo="https://i.ibb.co/5X20hxjL/KN-copia-4.png" group-title="🇵🇾TIGO SPORTS🇵🇾", TIGO EVENTOS 2
-https://live.enhdtv.com:19360/8226/8226.m3u8
+#EXTINF:-1 tvg-id="TigoSports.py" tvg-logo="https://i.ibb.co/5X20hxjL/KN-copia-4.png" group-title="🇵🇾TIGO SPORTS🇵🇾", TIGO en vivo
+http://45.170.130.224:8000/play/a04i/index.m3u8
 
 #EXTINF:-1 tvg-id="Gen.py" tvg-logo="https://i0.wp.com/television.com.py/wp-content/uploads/2020/10/LogoGENtvpy.jpg?fit=620%2C350&ssl=1" group-title="🇵🇾PARAGUAY🇵🇾", GEN TV
 https://rds3gen.desdeparaguay.net/gentv/gentv_py_alta/chunklist.m3u8?admin=nacion
@@ -29,17 +23,8 @@ https://d1y0t05eznkmpn.cloudfront.net/index.m3u8
 #EXTINF:-1 tvg-id="C9N.py" tvg-logo="https://i.ibb.co/Z6y9wbMT/330x330-logo-grande-C9-N.png" group-title="🇵🇾PARAGUAY🇵🇾", C9N OPC 2
 https://alba-py-c9n-c9n.stream.mediatiquestream.com/index.m3u8
 
-#EXTINF:-1 tvg-id="C9N.py" tvg-logo="https://i.ibb.co/Z6y9wbMT/330x330-logo-grande-C9-N.png" group-title="🇵🇾PARAGUAY🇵🇾", C9N OPC 3
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/1443.m3u8
-
 #EXTINF:-1 tvg-id="SNT.py" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/SNT_LOGO.jpg" group-title="🇵🇾PARAGUAY🇵🇾", SNT
 https://alba-py-snt-snt.stream.mediatiquestream.com/index.m3u8
-
-#EXTINF:-1 tvg-id="SNT.py" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/SNT_LOGO.jpg" group-title="🇵🇾PARAGUAY🇵🇾", SNT OPC 2
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/113.m3u8
-
-#EXTINF:-1 tvg-id="SNT.py" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/SNT_LOGO.jpg" group-title="🇵🇾PARAGUAY🇵🇾", SNT OPC 3
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/1442.m3u8
 
 #EXTINF:-1 tvg-id="Latele.py" tvg-logo="https://graph.facebook.com/LatelePy/picture?width=200&height=200" group-title="🇵🇾PARAGUAY🇵🇾", LA TELE HD
 https://copacotf.desdeparaguay.net/latele/latele_py_alta/playlist.m3u8?admin=tvaccion
@@ -385,6 +370,57 @@ https://jmp2.uk/plu-5d14fdb8ca91eedee1633117.m3u8
 
 #EXTINF:-1 tvg-id="MTVFlowLatino.us@US" tvg-logo="https://images.pluto.tv/channels/62b218fc511d4b00070ddc0c/colorLogoPNG.png" group-title="🎵MUSICALES🎵", MTV Flow Latino
 https://jmp2.uk/plu-62b218fc511d4b00070ddc0c.m3u8
+
+#EXTINF:-1 tvg-id="66a11a21a79dea0008aa90ca" tvg-name="66a11a21a79dea0008aa90ca" tvg-logo="https://images.pluto.tv/channels/66a11a21a79dea0008aa90ca/colorLogoPNG.png" group-title="🎵MUSICALES🎵",MTV CLASSICS
+https://jmp2.uk/plu-66a11a21a79dea0008aa90ca.m3u8
+
+#EXTINF:-1 tvg-id="66a01b52a4ee27000808ea36" tvg-name="66a01b52a4ee27000808ea36" tvg-logo="https://images.pluto.tv/channels/66a01b52a4ee27000808ea36/colorLogoPNG.png" group-title="🎵MUSICALES🎵",MTV ROCKS
+https://jmp2.uk/plu-66a01b52a4ee27000808ea36.m3u8
+
+#EXTINF:-1 tvg-id="63dac1b78795f300086d5ca6" tvg-name="63dac1b78795f300086d5ca6" tvg-logo="https://images.pluto.tv/channels/63dac1b78795f300086d5ca6/colorLogoPNG.png" group-title="🎵MUSICALES🎵",STINGRAY TIKTOK RADIO
+https://jmp2.uk/plu-63dac1b78795f300086d5ca6.m3u8
+
+#EXTINF:-1 tvg-id="5f85ca40eda1b10007b967cd" tvg-name="5f85ca40eda1b10007b967cd" tvg-logo="https://images.pluto.tv/channels/5f85ca40eda1b10007b967cd/colorLogoPNG.png" group-title="🎵MUSICALES🎵",STINGRAY CONCIERTOS
+https://jmp2.uk/plu-5f85ca40eda1b10007b967cd.m3u8
+
+#EXTINF:-1 tvg-id="5f85cf621d6d2200079f1de0" tvg-name="5f85cf621d6d2200079f1de0" tvg-logo="https://images.pluto.tv/channels/5f85cf621d6d2200079f1de0/colorLogoPNG.png" group-title="🎵MUSICALES🎵",STINGRAY KARAOKE
+https://jmp2.uk/plu-5f85cf621d6d2200079f1de0.m3u8
+
+#EXTINF:-1 tvg-id="6868152657543d1f8be4ece3" tvg-name="6868152657543d1f8be4ece3" tvg-logo="https://images.pluto.tv/channels/6868152657543d1f8be4ece3/colorLogoPNG.png" group-title="🎵MUSICALES🎵",CONCERT CHANNEL
+https://jmp2.uk/plu-6868152657543d1f8be4ece3.m3u8
+
+#EXTINF:-1 tvg-id="5d93b635b43dd1a399b39eee" tvg-name="5d93b635b43dd1a399b39eee" tvg-logo="https://images.pluto.tv/channels/5d93b635b43dd1a399b39eee/colorLogoPNG.png" group-title="🎵MUSICALES🎵",VEVO POP
+https://jmp2.uk/plu-5d93b635b43dd1a399b39eee.m3u8
+
+#EXTINF:-1 tvg-id="5f32f26bcd8aea00071240e5" tvg-name="5f32f26bcd8aea00071240e5" tvg-logo="https://images.pluto.tv/channels/5f32f26bcd8aea00071240e5/colorLogoPNG.png" group-title="🎵MUSICALES🎵",VEVO 70S
+https://jmp2.uk/plu-5f32f26bcd8aea00071240e5.m3u8
+
+#EXTINF:-1 tvg-id="5fd7b8bf927e090007685853" tvg-name="5fd7b8bf927e090007685853" tvg-logo="https://images.pluto.tv/channels/5fd7b8bf927e090007685853/colorLogoPNG.png" group-title="🎵MUSICALES🎵",VEVO 80S
+https://jmp2.uk/plu-5fd7b8bf927e090007685853.m3u8
+
+#EXTINF:-1 tvg-id="5fd7bb1f86d94a000796e2c2" tvg-name="5fd7bb1f86d94a000796e2c2" tvg-logo="https://images.pluto.tv/channels/5fd7bb1f86d94a000796e2c2/colorLogoPNG.png" group-title="🎵MUSICALES🎵",VEVO 90S
+https://jmp2.uk/plu-5fd7bb1f86d94a000796e2c2.m3u8
+
+#EXTINF:-1 tvg-id="5fd7bca3e0a4ee0007a38e8c" tvg-name="5fd7bca3e0a4ee0007a38e8c" tvg-logo="https://images.pluto.tv/channels/5fd7bca3e0a4ee0007a38e8c/colorLogoPNG.png" group-title="🎵MUSICALES🎵",VEVO 2KS
+https://jmp2.uk/plu-5fd7bca3e0a4ee0007a38e8c.m3u8
+
+#EXTINF:-1 tvg-id="5da0d75e84830900098a1ea0" tvg-name="5da0d75e84830900098a1ea0" tvg-logo="https://images.pluto.tv/channels/5da0d75e84830900098a1ea0/colorLogoPNG.png" group-title="🎵MUSICALES🎵",VEVO COUNTRY
+https://jmp2.uk/plu-5da0d75e84830900098a1ea0.m3u8
+
+#EXTINF:-1 tvg-id="61d4c2817a823d00070ba53e" tvg-name="61d4c2817a823d00070ba53e" tvg-logo="https://images.pluto.tv/channels/61d4c2817a823d00070ba53e/colorLogoPNG.png" group-title="🎵MUSICALES🎵",VEVO TRUE SCHOOL HIP-HOP
+https://jmp2.uk/plu-61d4c2817a823d00070ba53e.m3u8
+
+#EXTINF:-1 tvg-id="5da0d83f66c9700009b96d0e" tvg-name="5da0d83f66c9700009b96d0e" tvg-logo="https://images.pluto.tv/channels/5da0d83f66c9700009b96d0e/colorLogoPNG.png" group-title="🎵MUSICALES🎵",VEVO R&B
+https://jmp2.uk/plu-5da0d83f66c9700009b96d0e.m3u8
+
+#EXTINF:-1 tvg-id="61d4b38226b8a50007fe03a6" tvg-name="61d4b38226b8a50007fe03a6" tvg-logo="https://images.pluto.tv/channels/61d4b38226b8a50007fe03a6/colorLogoPNG.png" group-title="🎵MUSICALES🎵",VEVO ROCK
+https://jmp2.uk/plu-61d4b38226b8a50007fe03a6.m3u8
+
+#EXTINF:-1 tvg-id="64d161c93c785e0008df575e" tvg-name="64d161c93c785e0008df575e" tvg-logo="https://images.pluto.tv/channels/64d161c93c785e0008df575e/colorLogoPNG.png" group-title="🎵MUSICALES🎵",VEVO ICONOS LATINOS
+https://jmp2.uk/plu-64d161c93c785e0008df575e.m3u8
+
+#EXTINF:-1 tvg-id="64dab5fe35425100080e2991" tvg-name="64dab5fe35425100080e2991" tvg-logo="https://images.pluto.tv/channels/64dab5fe35425100080e2991/colorLogoPNG.png" group-title="🎵MUSICALES🎵",VEVO REGIONAL MX
+https://jmp2.uk/plu-64dab5fe35425100080e2991.m3u8
 
 #EXTINF:-1 tvg-id="TraceLatina.fr@SD" tvg-logo="https://i.imgur.com/CUVAi4u.png" group-title="🎵MUSICALES🎵", Trace Latina 
 https://amg01131-tracetv-tracelatina-glewed-vtnk7.amagi.tv/playlist.m3u8

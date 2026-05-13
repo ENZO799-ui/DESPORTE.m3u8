@@ -374,6 +374,9 @@ https://amg00711-zylo-amg00711c3-rakuten-es-5794.playouts.now.amagi.tv/playlist/
 #EXTINF:-1 tvg-id="MTV.jp@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/960px-MTV_2021_%28brand_version%29.svg.png" group-title="🎵MUSICALES🎵", MTV Japan
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs18
 
+#EXTINF:-1 tvg-id="MTVLive.us@SD" tvg-logo="https://is.gd/h4WXiH?.png" group-title="🎵MUSICALES🎵", MTV LIVE
+https://cors-proxy.cooks.fyi/http://23.237.104.106:8080/USA_MTV_LIVE/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="MTVBiggestPop.us@US" tvg-logo="https://images.pluto.tv/channels/6047fabfce6e8e00070bcc9f/colorLogoPNG.png" group-title="🎵MUSICALES🎵", MTV Biggest Pop 
 https://jmp2.uk/plu-5d14fd1a252d35decbc4080c.m3u8
 

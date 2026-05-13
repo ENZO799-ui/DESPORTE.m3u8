@@ -51,7 +51,7 @@ http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/120.m3u8
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/1596.m3u8
 
 #EXTINF:-1 tvg-id="Trece.py" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfKOWcmza3biSWSrLZMRhYP5Mb9DnSZu5qyQ&s" group-title="🇵🇾PARAGUAY🇵🇾", TRECE
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/82.m3u8
+https://rds3gen.desdeparaguay.net/trecetv/trecetv_alta/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ABCTVParaguay.py" tvg-logo="https://graph.facebook.com/ABCTVpy/picture?width=200&height=200" group-title="🇵🇾PARAGUAY🇵🇾", ABC
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/7.m3u8

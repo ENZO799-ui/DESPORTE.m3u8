@@ -350,6 +350,9 @@ https://jmp2.uk/plu-5da0d83f66c9700009b96d0e.m3u8
 #EXTINF:-1 tvg-id="61d4b38226b8a50007fe03a6" tvg-name="61d4b38226b8a50007fe03a6" tvg-logo="https://images.pluto.tv/channels/61d4b38226b8a50007fe03a6/colorLogoPNG.png" group-title="🎵MUSICALES🎵",VEVO ROCK
 https://jmp2.uk/plu-61d4b38226b8a50007fe03a6.m3u8
 
+#EXTINF:-1 tvg-id="64d161c93c785e0008df575e" tvg-name="64d161c93c785e0008df575e" tvg-logo="https://i.imgur.com/D7SwmuB.png" group-title="🎵MUSICALES🎵",VEVO LATINO
+https://amg00056-amg00056c13-rakuten-es-3246.playouts.now.amagi.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="64d161c93c785e0008df575e" tvg-name="64d161c93c785e0008df575e" tvg-logo="https://images.pluto.tv/channels/64d161c93c785e0008df575e/colorLogoPNG.png" group-title="🎵MUSICALES🎵",VEVO ICONOS LATINOS
 https://jmp2.uk/plu-64d161c93c785e0008df575e.m3u8
 
@@ -364,6 +367,12 @@ https://amg01131-tracetv-amg01131c1-rakuten-us-1081.playouts.now.amagi.tv/playli
 
 #EXTINF:-1 tvg-id="TraceUrban.fr@SD" tvg-logo="https://i.imgur.com/Vvxz6KX.png" group-title="🎵MUSICALES🎵",Trace Hits
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🎵MUSICALES🎵", NEW K-POP
+https://ads.its-newid.net/api/manifest.m3u8?tp=samsung_tvplus&channel_id=newid_086&ads.service_id=GB17000088V
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🎵MUSICALES🎵", K-POP BY CJ ENM
+https://jmp2.uk/stvp-US39000038W
 
 #EXTINF:-1 tvg-id="XITE.nl@SD" tvg-logo="https://i.imgur.com/jxuwGRi.png" group-title="🎵MUSICALES🎵", XITE EU
 https://xite-rakuten.amagi.tv/playlist.m3u8

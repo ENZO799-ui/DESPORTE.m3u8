@@ -137,34 +137,31 @@ http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-92.playl
 #EXTINF:-1 tvg-id="FoxDeportes.us" tvg-logo="https://i.ibb.co/YBBb0NdH/s15377-ll-h15-ab.png" group-title="⚽ FOX SPORTS ⚽", FOX DEPORTES
 https://is.gd/bKBwmH?.m3u8
 
-#EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://i.ibb.co/60QvHcnr/R-2.png" group-title="⚽TyC/TNT/DIRECTV SPORTS⚽", TYC SPORTS AR
+#EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://i.ibb.co/60QvHcnr/R-2.png" group-title="⚽TYC SPORTS PLAY⚽", TYC SPORTS AR
 http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-90.playlist.m3u8
 
-#EXTINF:-1 tvg-id="TNTSports.cl" tvg-logo="https://i.ibb.co/60QvHcnr/R-2.png" group-title="⚽TyC/TNT/DIRECTV SPORTS⚽", TNT SPORTS CL
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/86.m3u8
-
-#EXTINF:-1 tvg-id="TNTSports.ar" tvg-logo="https://i.ibb.co/vCVx3Qyc/tnt-sports-chile-logo-png-seeklogo-400914.png" group-title="⚽TyC/TNT/DIRECTV SPORTS⚽", TNT SPORT AR
+#EXTINF:-1 tvg-id="TNTSports.ar" tvg-logo="https://i.ibb.co/vCVx3Qyc/tnt-sports-chile-logo-png-seeklogo-400914.png" group-title="⚽TYC SPORTS PLAY⚽", TNT SPORT AR
 https://latam-cache-sv2-cdn.latamlive.net/TNTS_ENC_LIVE/index.mpd
 
-#EXTINF:-1 tvg-id="TyCSportsLatinAmerica.ar" tvg-logo="https://i.ibb.co/tK20mxz/tycsports.png" group-title="⚽TyC/TNT/DIRECTV SPORTS⚽", TYC SPORTS INTERNACIONAL
+#EXTINF:-1 tvg-id="TyCSportsLatinAmerica.ar" tvg-logo="https://i.ibb.co/tK20mxz/tycsports.png" group-title="⚽TYC SPORTS PLAY⚽", TYC SPORTS INTERNACIONAL
 http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-90.playlist.m3u8
 
-#EXTINF:-1 tvg-id="DSportsUruguay.uy" tvg-logo="https://i.ibb.co/PRN7mZH/logo-dsports-1.png" group-title="⚽TyC/TNT/DIRECTV SPORTS⚽", DIRECTV SPORTS
-https://latam-cache-sv2-cdn.latamlive.net/DS1_ENC_LIVE/index.mpd
-
-#EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://i.ibb.co/njgDHwJ/unnamed.webp" group-title="⚽TyC/TNT/DIRECTV SPORTS⚽", TYC SPORT (PLAY)
+#EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://i.ibb.co/njgDHwJ/unnamed.webp" group-title="⚽TYC SPORTS PLAY⚽", TYC SPORT (PLAY)
 https://d320m3arb2wo8b.cloudfront.net/out/v1/34e0da501a8c4489b713809eb08a9bf3/index.m3u8
 
-#EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://i.ibb.co/njgDHwJ/unnamed.webp" group-title="⚽TyC/TNT/DIRECTV SPORTS⚽", TYC SPORT (PLAY 2)
+#EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://i.ibb.co/njgDHwJ/unnamed.webp" group-title="⚽TYC SPORTS PLAY⚽", TYC SPORT (PLAY 2)
 https://d1xm2jznwi5xzj.cloudfront.net/out/v1/1bcd1ee954894463b1793597891a25b6/index_10.m3u8
 
-#EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://i.ibb.co/njgDHwJ/unnamed.webp" group-title="⚽TyC/TNT/DIRECTV SPORTS⚽", TYC SPORT (PLAY 3)
+#EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://i.ibb.co/njgDHwJ/unnamed.webp" group-title="⚽TYC SPORTS PLAY⚽", TYC SPORT (PLAY 3)
 https://dj8bzwveg7go9.cloudfront.net/out/v1/366fc52554ae42c58465ea4b278eac0c/index_15.m3u8
 
-#EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://i.ibb.co/njgDHwJ/unnamed.webp" group-title="⚽TyC/TNT/DIRECTV SPORTS⚽", TYC SPORT (PLAY 4)
+#EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://i.ibb.co/njgDHwJ/unnamed.webp" group-title="⚽TYC SPORTS PLAY⚽", TYC SPORT (PLAY 4)
+https://d1xm2jznwi5xzj.cloudfront.net/out/v1/34e0da501a8c4489b713809eb08a9bf3/index_14.m3u8
+
+#EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://i.ibb.co/njgDHwJ/unnamed.webp" group-title="⚽TYC SPORTS PLAY⚽", TYC SPORT (PLAY 5)
 https://d107yb993altze.cloudfront.net/out/v1/772e0b0193134726ad84693b7baca6c6/index_9.m3u8
 
-#EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://i.ibb.co/njgDHwJ/unnamed.webp" group-title="⚽TyC/TNT/DIRECTV SPORTS⚽", TYC SPORT (PLAY 5)
+#EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://i.ibb.co/njgDHwJ/unnamed.webp" group-title="⚽TYC SPORTS PLAY⚽", TYC SPORT (PLAY 6)
 https://d21no6qan3ol31.cloudfront.net/out/v1/a2f25f61e9d44701aa4e813ac5efc4a4/index.m3u8
 
 #EXTINF:-1 tvg-id="CazeTV.br" tvg-logo="https://i.ibb.co/W3XpzQy/cazetv.png" group-title="⚽OTROS DEPORTES⚽", Cazé TV
@@ -173,8 +170,11 @@ https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
 #EXTINF:-1 tvg-id="Telemundo.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/960px-Telemundo_logo_2018.svg.png" group-title="⚽OTROS DEPORTES⚽", TELEMUNDO USA
 http://190.11.225.124:5000/live/telemundo_hd/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TelemundoDeportes.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Telemundo_Deportes_Logo.png/960px-Telemundo_Deportes_Logo.png" group-title="⚽OTROS DEPORTES⚽", TELEMUNDO DEPORTES USA (NO HD)
-https://is.gd/SJpSZD?.m3u8
+#EXTINF:-1 tvg-id="Telemundo.pr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/960px-Telemundo_logo_2018.svg.png" group-title="⚽OTROS DEPORTES⚽", TELEMUNDO PR
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
+
+#EXTINF:-1 tvg-id="TelemundoDeportes.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Telemundo_Deportes_Logo.png/960px-Telemundo_Deportes_Logo.png" group-title="⚽OTROS DEPORTES⚽", TELEMUNDO DEPORTES AHORA
+https://is.gd/FOdXuE?.m3u8
 
 #EXTINF:-1 tvg-id="NBCUniverso.us" tvg-logo="https://i.imgur.com/RZ8pIKe.png" group-title="⚽OTROS DEPORTES⚽", UNIVERSO USA
 http://190.11.225.124:5000/live/universo_hd/playlist.m3u8
@@ -274,45 +274,6 @@ https://is.gd/FR05B7?.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CmdBHzB/ufa.png" group-title="🥊COMBAT UFC WWE🥊", UFA
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/united-fight-alliance/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1282/CH_LOGO/160/160/0/0/21817888076947.png" group-title="🎬 UNIVERSAL+ | HBO", Universal Cinema
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/61.m3u8
-
-#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1283/CH_LOGO/160/160/0/0/94843453076948.png" group-title="🎬 UNIVERSAL+ | HBO", Universal Comedy
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/62.m3u8
-
-#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1284/CH_LOGO/160/160/0/0/34307524076949.png" group-title="🎬 UNIVERSAL+ | HBO", Universal Crime
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/63.m3u8
-
-#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1285/CH_LOGO/160/160/0/0/62685863076950.png" group-title="🎬 UNIVERSAL+ | HBO", Universal Premiere
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/64.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/HfKmnJBb/image.png" group-title="🎬 UNIVERSAL+ | HBO", Universal Plus
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/65.m3u8
-
-#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/100/CH_LOGO/160/160/0/0/228799490721.png" group-title="🎬 UNIVERSAL+ | HBO", HBO
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/32.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Hp38dM6D/image.png" group-title="🎬 UNIVERSAL+ | HBO", HBO 2
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/30.m3u8
-
-#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/102/CH_LOGO/160/160/0/0/7354519807335.png" group-title="🎬 UNIVERSAL+ | HBO", HBO Family
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/31.m3u8
-
-#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/107/CH_LOGO/160/160/0/0/61157416071448.png" group-title="🎬 UNIVERSAL+ | HBO", HBO Mundi
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/33.m3u8
-
-#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/124/CH_LOGO/160/160/0/0/10237380072165.png" group-title="🎬 UNIVERSAL+ | HBO", HBO Plus
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/36.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/MxJPHCYg/image.png" group-title="🎬 UNIVERSAL+ | HBO", HBO Max
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/32.m3u8
-
-#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/49/CH_LOGO/160/160/0/0/3657655307500.png" group-title="🎬 UNIVERSAL+ | HBO", HBO Signature
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/34.m3u8
-
-#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/108/CH_LOGO/160/160/0/0/6041444607334.png" group-title="🎬 UNIVERSAL+ | HBO", HBO Xtreme
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/35.m3u8
 
 #EXTINF:-1 tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/645e383c-88f5-4378-88fd-0d4989c01cde.jpeg" group-title="📦Pack RakutenTV📦", Pelis Top
 https://top-movies-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5983/master.m3u8
@@ -455,10 +416,10 @@ https://d284aawtm5vi48.cloudfront.net/XITE_90s_Throwback.m3u8
 #EXTINF:-1 tvg-id="XITE80Flashback.us@SD" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB320000647_20250421T234923SQUARE.png" group-title="🎵MUSICALES🎵", XITE 80s Flashback
 https://d1n314cytqn9r3.cloudfront.net/XITE_80s_Flashback.m3u8
 
-#EXTINF:-1 tvg-id="XITENuevoLatino.us@SD" tvg-logo="https://i.imgur.com/2qyl2y3.png" group-title="🎵MUSICALES🎵", XITE Nuevo Latino (1080p)
+#EXTINF:-1 tvg-id="XITENuevoLatino.us@SD" tvg-logo="https://i.imgur.com/2qyl2y3.png" group-title="🎵MUSICALES🎵", XITE Nuevo Latino
 https://d3bsgqzbpkrvbb.cloudfront.net/XITE_Nuevo_Latino.m3u8
 
-#EXTINF:-1 tvg-id="XITESiempreLatino.us@SD" tvg-logo="https://i.imgur.com/bwmIEgG.png" group-title="🎵MUSICALES🎵", XITE Siempre Latino (1080p)
+#EXTINF:-1 tvg-id="XITESiempreLatino.us@SD" tvg-logo="https://i.imgur.com/bwmIEgG.png" group-title="🎵MUSICALES🎵", XITE Siempre Latino
 https://d1xc25jm9e0l4b.cloudfront.net/XITE_Siempre_Latino.m3u8
 
 #EXTINF:-1 tvg-id="XITEReggaeVibes.nl@HD" tvg-logo="https://provider-static.plex.tv/epg/cms/production/c7506335-967f-46a9-917a-2a35475cd96c/xitereggaevibes_logo_light_-_Arlette_FiranRDX.png" group-title="🎵MUSICALES🎵", XITE Reggae Vibes
@@ -466,300 +427,3 @@ https://dw2m7yrngfg8c.cloudfront.net/XITE_Reggae_Vibes.m3u8
 
 #EXTINF:-1 tvg-id="XITERockxMetal.nl@US" tvg-logo="https://i.imgur.com/uIIUIuN.png" group-title="🎵MUSICALES🎵", XITE Rock On
 https://d198ro05q94rc4.cloudfront.net/XITE_Rock_On.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/67Vth99Q/tv-Cico.png" group-title="Prueba", 24h
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/4.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/67Vth99Q/tv-Cico.png" group-title="Prueba", A&E
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/5.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/67Vth99Q/tv-Cico.png" group-title="Prueba", A24
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/6.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/67Vth99Q/tv-Cico.png" group-title="Prueba", Abc Tv
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/7.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/67Vth99Q/tv-Cico.png" group-title="Prueba", Adult Swim
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/8.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/67Vth99Q/tv-Cico.png" group-title="Prueba", Amc Series
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/42.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/67Vth99Q/tv-Cico.png" group-title="Prueba", America Paraguay
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/83.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/67Vth99Q/tv-Cico.png" group-title="Prueba", Axn
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/10.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/67Vth99Q/tv-Cico.png" group-title="Prueba", Babytv
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/11.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/67Vth99Q/tv-Cico.png" group-title="Prueba", Band Brasil
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/77.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/67Vth99Q/tv-Cico.png" group-title="Prueba", Brasil
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/80.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/67Vth99Q/tv-Cico.png" group-title="Prueba", C9n
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/1443.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/67Vth99Q/tv-Cico.png" group-title="Prueba", Caminos Do Brasil
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/94.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/67Vth99Q/tv-Cico.png" group-title="Prueba", Cámara Puente
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/1534.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/67Vth99Q/tv-Cico.png" group-title="Prueba", Cartoon Network
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/115.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/67Vth99Q/tv-Cico.png" group-title="Prueba", Cartoonito
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/70.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/67Vth99Q/tv-Cico.png" group-title="Prueba", Cine Canal
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/17.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/67Vth99Q/tv-Cico.png" group-title="Prueba", Cine Familiar
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/14.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/67Vth99Q/tv-Cico.png" group-title="Prueba", Cine Hispano
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/15.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/67Vth99Q/tv-Cico.png" group-title="Prueba", Cine Premium
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/16.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/67Vth99Q/tv-Cico.png" group-title="Prueba", Combate Ufc
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/73.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/67Vth99Q/tv-Cico.png" group-title="Prueba", Comedy Central
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/87.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/67Vth99Q/tv-Cico.png" group-title="Prueba", D
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/60.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/67Vth99Q/tv-Cico.png" group-title="Prueba", Discovery Channel
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/20.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/67Vth99Q/tv-Cico.png" group-title="Prueba", Discovery Theater
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/21.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/67Vth99Q/tv-Cico.png" group-title="Prueba", Disney Jr
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/114.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/67Vth99Q/tv-Cico.png" group-title="Prueba", Dp News
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/112.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/67Vth99Q/tv-Cico.png" group-title="Prueba", Dw Noticias
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/102.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/67Vth99Q/tv-Cico.png" group-title="Prueba", El Trece
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/82.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/67Vth99Q/tv-Cico.png" group-title="Prueba", Espn
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/89.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/67Vth99Q/tv-Cico.png" group-title="Prueba", Espn 2
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/88.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/67Vth99Q/tv-Cico.png" group-title="Prueba", Espn 3
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/90.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/67Vth99Q/tv-Cico.png" group-title="Prueba", Espn 4
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/91.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/67Vth99Q/tv-Cico.png" group-title="Prueba", Espn 5
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/92.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/67Vth99Q/tv-Cico.png" group-title="Prueba", Espn 6
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/25.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/67Vth99Q/tv-Cico.png" group-title="Prueba", Espn 7
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/26.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/67Vth99Q/tv-Cico.png" group-title="Prueba", Espn Premium
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/116.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/67Vth99Q/tv-Cico.png" group-title="Prueba", Farra Play
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/28.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/67Vth99Q/tv-Cico.png" group-title="Prueba", Film & Arts
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/29.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/67Vth99Q/tv-Cico.png" group-title="Prueba", Fox Sports 2
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/91.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/67Vth99Q/tv-Cico.png" group-title="Prueba", Fox Sports 3
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/1552.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/67Vth99Q/tv-Cico.png" group-title="Prueba", France 24
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/104.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/67Vth99Q/tv-Cico.png" group-title="Prueba", Free Tv Drama
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/95.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/67Vth99Q/tv-Cico.png" group-title="Prueba", Free Tv Estelar
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/96.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/67Vth99Q/tv-Cico.png" group-title="Prueba", Gen Tv
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/1847.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/67Vth99Q/tv-Cico.png" group-title="Prueba", Hbo
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/32.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/67Vth99Q/tv-Cico.png" group-title="Prueba", Hbo 2
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/30.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/67Vth99Q/tv-Cico.png" group-title="Prueba", Hbo Family
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/31.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/67Vth99Q/tv-Cico.png" group-title="Prueba", Hbo Max
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/32.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/67Vth99Q/tv-Cico.png" group-title="Prueba", Hbo Mundi
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/33.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/67Vth99Q/tv-Cico.png" group-title="Prueba", Hbo Plus
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/36.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/67Vth99Q/tv-Cico.png" group-title="Prueba", Hbo Signature
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/34.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/67Vth99Q/tv-Cico.png" group-title="Prueba", Hbo Xtreme
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/35.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/67Vth99Q/tv-Cico.png" group-title="Prueba", History
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/37.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/67Vth99Q/tv-Cico.png" group-title="Prueba", History Channel
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/37.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/67Vth99Q/tv-Cico.png" group-title="Prueba", Hola Tv
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/38.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/67Vth99Q/tv-Cico.png" group-title="Prueba", Htv
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/40.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/67Vth99Q/tv-Cico.png" group-title="Prueba", Hyh Discovery
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/39.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/67Vth99Q/tv-Cico.png" group-title="Prueba", Id Discovery
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/41.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/67Vth99Q/tv-Cico.png" group-title="Prueba", La Tele
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/117.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/67Vth99Q/tv-Cico.png" group-title="Prueba", Las Estrellas
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/121.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/67Vth99Q/tv-Cico.png" group-title="Prueba", Love Nature
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/84.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/67Vth99Q/tv-Cico.png" group-title="Prueba", Mp
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/67.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/67Vth99Q/tv-Cico.png" group-title="Prueba", Nat Geo
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/45.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/67Vth99Q/tv-Cico.png" group-title="Prueba", Npy
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/71.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/67Vth99Q/tv-Cico.png" group-title="Prueba", Paraguay Tv
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/118.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/67Vth99Q/tv-Cico.png" group-title="Prueba", Paravision
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/120.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/67Vth99Q/tv-Cico.png" group-title="Prueba", Pasiones
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/47.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/67Vth99Q/tv-Cico.png" group-title="Prueba", Record Tv
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/79.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/67Vth99Q/tv-Cico.png" group-title="Prueba", Sbt
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/78.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/67Vth99Q/tv-Cico.png" group-title="Prueba", Sony Channel
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/49.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/67Vth99Q/tv-Cico.png" group-title="Prueba", Space
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/50.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/67Vth99Q/tv-Cico.png" group-title="Prueba", Star
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/52.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/67Vth99Q/tv-Cico.png" group-title="Prueba", Star Channel
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/51.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/67Vth99Q/tv-Cico.png" group-title="Prueba", Snt
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/113.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/67Vth99Q/tv-Cico.png" group-title="Prueba", Sur Tv
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/1596.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/67Vth99Q/tv-Cico.png" group-title="Prueba", Tastemade Plus (Comidas)
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/100.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/67Vth99Q/tv-Cico.png" group-title="Prueba", Telefe
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/81.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/67Vth99Q/tv-Cico.png" group-title="Prueba", Telefuturo
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/74.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/67Vth99Q/tv-Cico.png" group-title="Prueba", Telemundo Internacional
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/54.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/67Vth99Q/tv-Cico.png" group-title="Prueba", Tln Novelas
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/75.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/67Vth99Q/tv-Cico.png" group-title="Prueba", Tn
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/55.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/67Vth99Q/tv-Cico.png" group-title="Prueba", Tnt
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/56.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/67Vth99Q/tv-Cico.png" group-title="Prueba", Tnt Novelas
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/57.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/67Vth99Q/tv-Cico.png" group-title="Prueba", Tnt Sports Premium
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/86.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/67Vth99Q/tv-Cico.png" group-title="Prueba", Tooncast
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/69.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/67Vth99Q/tv-Cico.png" group-title="Prueba", Transcontinental
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/76.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/67Vth99Q/tv-Cico.png" group-title="Prueba", Tv5 Monde
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/59.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/67Vth99Q/tv-Cico.png" group-title="Prueba", Tv Camara
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/119.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/67Vth99Q/tv-Cico.png" group-title="Prueba", Tv Padeltime
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/43.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/67Vth99Q/tv-Cico.png" group-title="Prueba", Unicanal
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/72.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/67Vth99Q/tv-Cico.png" group-title="Prueba", Universal Cinema
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/61.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/67Vth99Q/tv-Cico.png" group-title="Prueba", Universal Comedy
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/62.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/67Vth99Q/tv-Cico.png" group-title="Prueba", Universal Crime
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/63.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/67Vth99Q/tv-Cico.png" group-title="Prueba", Universal Plus
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/65.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/67Vth99Q/tv-Cico.png" group-title="Prueba", Universal Premiere
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/64.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/67Vth99Q/tv-Cico.png" group-title="Prueba", Universal Studio
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/53.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/67Vth99Q/tv-Cico.png" group-title="Prueba", Venus Tv
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/66.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/67Vth99Q/tv-Cico.png" group-title="Prueba", Warnerbros Tv
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/68.m3u8

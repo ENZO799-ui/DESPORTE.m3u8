@@ -98,33 +98,6 @@ https://rds3.desdeparaguay.net/gotv/gotv/playlist.m3u8
 #EXTINF:-1 tvg-id="BrunoMasiTV.py" tvg-logo="https://i.ibb.co/pK5SNMT/bruno-masi-tv.png" group-title="🇵🇾PARAGUAY🇵🇾", BRUNO MASI TV
 https://rds3gen.desdeparaguay.net/brunomasitv/brunomasitv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ESPNLatinAmerica.us" tvg-logo="https://i.ibb.co/s37NZCT/espn-1B.png" group-title="⚽ ESPN ⚽", ESPN
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/89.m3u8
-
-#EXTINF:-1 tvg-id="ESPN2LatinAmerica.us" tvg-logo="https://i.ibb.co/RCMYFsv/espn-2B.png" group-title="⚽ ESPN ⚽", ESPN 2
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/88.m3u8
-
-#EXTINF:-1 tvg-id="ESPN3LatinAmerica.us" tvg-logo="https://i.ibb.co/TLcGvdv/espn-3B.png" group-title="⚽ ESPN ⚽", ESPN 3
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/90.m3u8
-
-#EXTINF:-1 tvg-id="ESPN4LatinAmerica.us" tvg-logo="https://i.ibb.co/pJK6xQ0/espn-4B.png" group-title="⚽ ESPN ⚽", ESPN 4
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/91.m3u8
-
-#EXTINF:-1 tvg-id="ESPN5LatinAmerica.us" tvg-logo="https://i.ibb.co/6bvjxGP/espn-5B.png" group-title="⚽ ESPN ⚽", ESPN 5
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/92.m3u8
-
-#EXTINF:-1 tvg-id="ESPN6LatinAmerica.us" tvg-logo="https://i.ibb.co/CsyhPz4/espn-6B.png" group-title="⚽ ESPN ⚽", ESPN 6
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/25.m3u8
-
-#EXTINF:-1 tvg-id="ESPN7LatinAmerica.us" tvg-logo="https://i.ibb.co/LSQFzkw/espn-7B.png" group-title="⚽ ESPN ⚽", ESPN 7
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/25.m3u8
-
-#EXTINF:-1 tvg-id="ESPNPremium.ar" tvg-logo="https://i.ibb.co/LrNsJsP/espnpremium.png" group-title="⚽ ESPN ⚽", ESPN PREMIUM
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/116.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ESPN_Deportes.svg/960px-ESPN_Deportes.svg.png" group-title="⚽ ESPN ⚽", ESPN DEPORTES
-http://Tdo@origin.thetvapp.to/hls/espn-deportes/mono.m3u8
-
 #EXTINF:-1 tvg-id="FoxSports.ar" tvg-logo="https://i.ibb.co/zbWxZ95/fs1.png" group-title="⚽ FOX SPORTS ⚽", FOX SPORTS
 http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-91.playlist.m3u8
 
